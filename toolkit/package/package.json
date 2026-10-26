@@ -62,7 +62,7 @@
     "vite-tsconfig-paths": "5.1.4"
   },
   "engines": {
-    "node": ">=22.14.0"
+    "node": ">=24.22.1"
   },
   "publishConfig": {
     "access": "public"
